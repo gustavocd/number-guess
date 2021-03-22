@@ -84,7 +84,7 @@
 
       <h1>Adivina el número entre 1 y 100</h1>
 
-      <h3>Mencina el número que quieras usando tu micrófono.</h3>
+      <h3>Menciona el número que desees (en inglés).</h3>
 
       <div class="msg">
         {$service.context.hint}
